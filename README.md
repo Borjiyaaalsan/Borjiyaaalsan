@@ -5,11 +5,18 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:09001A,50:4B0082,100:00D9FF&amp;height=200&amp;section=header&amp;text=Borjiya%20Aalsan&amp;fontSize=48&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Electronics%20%7C%20Embedded%20Systems%20%7C%20IoT%20%7C%20Robotics%20%26%20AI&amp;descSize=15&amp;descAlignY=60&amp;animation=fadeIn" width="100%" alt="Borjiya Aalsan Profile Banner"/>
+# 👋 Hi, I'm Borjiya Aalsan
+
+### Electronics & Communication Engineer
+
+**Embedded Systems | IoT | Robotics | Artificial Intelligence**
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;pause=1000&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Embedded+Systems+Enthusiast;IoT+and+Robotics+Developer;Exploring+Artificial+Intelligence;Building+Smart+Hardware+Solutions;Turning+Ideas+Into+Reality" alt="Typing Animation"/>
+<img src="https://img.shields.io/badge/EMBEDDED_SYSTEMS-7C3AED?style=for-the-badge" alt="Embedded Systems"/>
+<img src="https://img.shields.io/badge/IoT-0891B2?style=for-the-badge" alt="IoT"/>
+<img src="https://img.shields.io/badge/ROBOTICS-2563EB?style=for-the-badge" alt="Robotics"/>
+<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-9333EA?style=for-the-badge" alt="Artificial Intelligence"/>
 
 <br/><br/>
 
@@ -18,7 +25,7 @@
 </a>
 
 <a href="https://github.com/Borjiyaaalsan?tab=followers">
-<img src="https://img.shields.io/github/followers/Borjiyaaalsan?label=FOLLOWERS&amp;style=for-the-badge&amp;color=0891B2&amp;logo=github" alt="GitHub Followers"/>
+<img src="https://img.shields.io/github/followers/Borjiyaaalsan?label=FOLLOWERS&amp;style=for-the-badge&amp;color=0891B2&amp;logo=github" alt="Followers"/>
 </a>
 
 </div>
@@ -69,7 +76,7 @@ I'm an Electronics and Communication Engineering student passionate about develo
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js" alt="Programming Languages"/>
 </p>
 
-### ⚡ Embedded Systems and Hardware
+### ⚡ Embedded Systems & Hardware
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux" alt="Embedded Tools"/>
@@ -77,7 +84,7 @@ I'm an Electronics and Communication Engineering student passionate about develo
 <img src="https://img.shields.io/badge/ESP8266-00599C?style=for-the-badge&amp;logo=espressif&amp;logoColor=white" alt="ESP8266"/>
 </p>
 
-### 🌐 Software and Development Tools
+### 🌐 Software & Development Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,firebase,flutter,mysql,mongodb" alt="Development Tools"/>
@@ -197,11 +204,11 @@ A web-based medication reminder application designed to manage medicine schedule
 
 ---
 
-## 🏅 Patents and Intellectual Property
+## 🏅 Patents & Intellectual Property
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/INNOVATION-PATENT%20PORTFOLIO-7C3AED?style=for-the-badge&amp;logo=academia&amp;logoColor=white" alt="Patent Portfolio"/>
+<img src="https://img.shields.io/badge/INNOVATION-PATENT%20PORTFOLIO-7C3AED?style=for-the-badge" alt="Patent Portfolio"/>
 
 </div>
 
@@ -241,7 +248,7 @@ An innovative portable washing-table design with a wall-mounted arrangement for 
 
 ---
 
-### 🚁 3. AutoDock – Automatic Drone Docking and Charging System
+### 🚁 3. AutoDock – Automatic Drone Docking & Charging System
 
 <div align="center">
 
@@ -263,7 +270,7 @@ An automatic drone docking and charging system designed to support precise landi
 
 ---
 
-## ⭐ Repository Stars and Activity
+## ⭐ Repository Stars & Activity
 
 <div align="center">
 
@@ -287,7 +294,7 @@ An automatic drone docking and charging system designed to support precise landi
 
 ---
 
-## 🎓 Certifications and Achievements
+## 🎓 Certifications & Achievements
 
 | Achievement | Details |
 |---|---|
@@ -309,7 +316,7 @@ An automatic drone docking and charging system designed to support precise landi
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="https://www.linkedin.com/in/borjiya-aalsan-t">
+<a href="https://www.linkedin.com/in/borjiya-aalsan-t-4803992a4">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
 </a>
 
@@ -327,12 +334,10 @@ An automatic drone docking and charging system designed to support precise landi
 
 <div align="center">
 
-<h3>💡 Dream. Build. Innovate. Repeat.</h3>
+### 💡 Dream. Build. Innovate. Repeat.
 
-**Thanks for visiting my GitHub profile!**
+**Thanks for visiting my GitHub profile! 🚀**
 
 ⭐ If you find my projects interesting, feel free to explore and connect.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00D9FF,50:4B0082,100:09001A&amp;height=120&amp;section=footer" width="100%" alt="Profile Footer"/>
 
 </div>
