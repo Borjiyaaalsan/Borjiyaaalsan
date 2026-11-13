@@ -1,22 +1,24 @@
 
 <!-- ====================================================== -->
-<!--           BORJIYA AALSAN | GITHUB PROFILE              -->
+<!--             BORJIYA AALSAN - GITHUB PROFILE             -->
 <!-- ====================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09001A,50:4B0082,100:00D9FF&height=200&section=header&text=Borjiya%20Aalsan&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Electronics%20%7C%20Embedded%20Systems%20%7C%20IoT%20%7C%20Robotics%20%26%20AI&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Profile Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:09001A,50:4B0082,100:00D9FF&amp;height=200&amp;section=header&amp;text=Borjiya%20Aalsan&amp;fontSize=48&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Electronics%20%7C%20Embedded%20Systems%20%7C%20IoT%20%7C%20Robotics%20%26%20AI&amp;descSize=15&amp;descAlignY=60&amp;animation=fadeIn" width="100%" alt="Borjiya Aalsan Profile Banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Embedded+Systems+Enthusiast;IoT+%26+Robotics+Developer;Exploring+Artificial+Intelligence;Building+Smart+Hardware+Solutions;Turning+Ideas+Into+Reality" alt="Typing Animation"/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;pause=1000&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Embedded+Systems+Enthusiast;IoT+and+Robotics+Developer;Exploring+Artificial+Intelligence;Building+Smart+Hardware+Solutions;Turning+Ideas+Into+Reality" alt="Typing Animation"/>
 
 <br/><br/>
 
 <a href="https://github.com/Borjiyaaalsan">
-<img src="https://komarev.com/ghpvc/?username=Borjiyaaalsan&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Borjiyaaalsan&amp;label=PROFILE%20VIEWS&amp;color=7C3AED&amp;style=for-the-badge" alt="Profile Views"/>
 </a>
 
 <a href="https://github.com/Borjiyaaalsan?tab=followers">
-<img src="https://img.shields.io/github/followers/Borjiyaaalsan?label=FOLLOWERS&style=for-the-badge&color=0891B2&logo=github" alt="Followers"/>
+<img src="https://img.shields.io/github/followers/Borjiyaaalsan?label=FOLLOWERS&amp;style=for-the-badge&amp;color=0891B2&amp;logo=github" alt="GitHub Followers"/>
 </a>
 
 </div>
@@ -31,16 +33,18 @@
 
 ### Hello, I'm Borjiya! 👋
 
-I'm an Electronics and Communication Engineering student passionate about building intelligent systems by combining electronics, embedded programming and emerging technologies.
+I'm an Electronics and Communication Engineering student passionate about developing intelligent systems by combining electronics, embedded programming and emerging technologies.
 
-- 🔭 Interested in Embedded Systems and IoT.
-- 🌱 Exploring Robotics, Automation and AI.
-- 🤖 Working with ESP32, Arduino and Raspberry Pi.
-- 💡 Interested in real-world engineering innovations.
-- 💬 Ask me about Microcontrollers, Sensors and IoT.
+- 🎓 Electronics and Communication Engineering
+- 🔭 Interested in Embedded Systems and IoT
+- 🌱 Exploring Robotics, Automation and AI
+- 🤖 Working with ESP32, Arduino and Raspberry Pi
+- 💡 Interested in real-world engineering innovations
+- 💬 Ask me about Microcontrollers, Sensors and IoT
 - 📫 Email: **thomasaalsan2123@gmail.com**
 
 </td>
+
 <td width="35%" align="center" valign="middle">
 
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,python,c,cpp,linux" alt="Technical Skills"/>
@@ -65,15 +69,15 @@ I'm an Electronics and Communication Engineering student passionate about buildi
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js" alt="Programming Languages"/>
 </p>
 
-### ⚡ Embedded Systems & Hardware
+### ⚡ Embedded Systems and Hardware
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux" alt="Embedded Tools"/>
-<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
-<img src="https://img.shields.io/badge/ESP8266-00599C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP8266"/>
+<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&amp;logo=espressif&amp;logoColor=white" alt="ESP32"/>
+<img src="https://img.shields.io/badge/ESP8266-00599C?style=for-the-badge&amp;logo=espressif&amp;logoColor=white" alt="ESP8266"/>
 </p>
 
-### 🌐 Software & Development Tools
+### 🌐 Software and Development Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,firebase,flutter,mysql,mongodb" alt="Development Tools"/>
@@ -82,9 +86,9 @@ I'm an Electronics and Communication Engineering student passionate about buildi
 ### 🔧 Other Technologies
 
 <p align="center">
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&amp;logo=ollama&amp;logoColor=white" alt="Ollama"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask"/>
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&amp;logo=mathworks&amp;logoColor=white" alt="MATLAB"/>
 <img src="https://img.shields.io/badge/EasyEDA-1769AA?style=for-the-badge" alt="EasyEDA"/>
 </p>
 
@@ -109,6 +113,7 @@ An AI-powered classroom assistant robot designed to support classroom activities
 - Ultrasonic Sensors
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🌱 Smart Vehicle Exhaust Filtration System
@@ -117,7 +122,7 @@ An embedded pollution-monitoring prototype that compares gas sensor readings bef
 
 **Technologies**
 - ESP32
-- MQ135 / MQ7 Sensors
+- MQ135 and MQ7 Sensors
 - OLED Display
 - Wi-Fi Dashboard
 - Activated Carbon Filter
@@ -140,6 +145,7 @@ A smart diet-monitoring concept combining weight measurement, food-related senso
 - Firebase
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🚗 Line-Guided EV Wireless Charging Station
@@ -171,6 +177,7 @@ An automatic drone docking and charging system designed to support precise landi
 - Magnetic Charging Contacts
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 💊 Medication Reminder System
@@ -190,11 +197,11 @@ A web-based medication reminder application designed to manage medicine schedule
 
 ---
 
-## 🏅 Patents & Intellectual Property
+## 🏅 Patents and Intellectual Property
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/INNOVATION-PATENT%20PORTFOLIO-7C3AED?style=for-the-badge&logo=academia&logoColor=white" alt="Patent Portfolio"/>
+<img src="https://img.shields.io/badge/INNOVATION-PATENT%20PORTFOLIO-7C3AED?style=for-the-badge&amp;logo=academia&amp;logoColor=white" alt="Patent Portfolio"/>
 
 </div>
 
@@ -206,15 +213,15 @@ A web-based medication reminder application designed to manage medicine schedule
 
 </div>
 
-An innovative portable device designed to detect pharmaceutical degradation through a colorimetric sensing approach.
+A portable device designed to detect pharmaceutical degradation through a colorimetric sensing approach.
 
 **Key Features**
-- 💊 Pharmaceutical sample preparation and analysis.
-- 🧪 Colorimetric reaction-based detection.
-- 🎨 TCS34725 color sensor for color measurement.
-- ⚙️ ATtiny85-based embedded processing.
-- 📟 OLED display for detection results.
-- 🔬 Classification of samples as Fresh, Approaching Expiry or Expired.
+- 💊 Pharmaceutical sample preparation and analysis
+- 🧪 Colorimetric reaction-based detection
+- 🎨 TCS34725 color sensor for color measurement
+- ⚙️ ATtiny85-based embedded processing
+- 📟 OLED display for detection results
+- 🔬 Classification of samples as Fresh, Approaching Expiry or Expired
 
 **Technologies:** ATtiny85 | TCS34725 | OLED | Embedded Systems | Colorimetric Sensing
 
@@ -234,7 +241,7 @@ An innovative portable washing-table design with a wall-mounted arrangement for 
 
 ---
 
-### 🚁 3. AutoDock – Automatic Drone Docking & Charging System
+### 🚁 3. AutoDock – Automatic Drone Docking and Charging System
 
 <div align="center">
 
@@ -245,25 +252,25 @@ An innovative portable washing-table design with a wall-mounted arrangement for 
 An automatic drone docking and charging system designed to support precise landing, docking verification and automated battery charging.
 
 **Key Features**
-- GPS / GNSS-based positioning.
-- LiDAR-assisted landing support.
-- ArUco / AprilTag visual marker recognition.
-- Hall sensor-based docking verification.
-- Magnetic charging contacts.
-- Automated drone docking and charging.
+- GPS / GNSS-based positioning
+- LiDAR-assisted landing support
+- ArUco / AprilTag visual marker recognition
+- Hall sensor-based docking verification
+- Magnetic charging contacts
+- Automated drone docking and charging
 
 **Technologies:** GPS / GNSS | LiDAR | ArUco / AprilTag | Hall Sensor | Embedded Systems
 
 ---
 
-## ⭐ Repository Stars & Activity
+## ⭐ Repository Stars and Activity
 
 <div align="center">
 
-<img src="https://img.shields.io/github/stars/Borjiyaaalsan?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow&label=REPOSITORY%20STARS" alt="Repository Stars"/>
+<img src="https://img.shields.io/github/stars/Borjiyaaalsan?affiliations=OWNER%2CCOLLABORATOR&amp;style=for-the-badge&amp;color=yellow&amp;label=REPOSITORY%20STARS" alt="Repository Stars"/>
 
 <a href="https://github.com/Borjiyaaalsan?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-Public%20Repositories-7C3AED?style=for-the-badge&logo=github" alt="Explore Repositories"/>
+<img src="https://img.shields.io/badge/EXPLORE-PUBLIC%20REPOSITORIES-7C3AED?style=for-the-badge&amp;logo=github" alt="Explore Repositories"/>
 </a>
 
 </div>
@@ -274,21 +281,21 @@ An automatic drone docking and charging system designed to support precise landi
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Borjiyaaalsan&theme=tokyonight&hide_border=true" width="80%" alt="Contribution Streak"/>
+<img src="https://streak-stats.demolab.com?user=Borjiyaaalsan&amp;theme=tokyonight&amp;hide_border=true" width="80%" alt="GitHub Contribution Streak"/>
 
 </div>
 
 ---
 
-## 🎓 Certifications & Achievements
+## 🎓 Certifications and Achievements
 
 | Achievement | Details |
 |---|---|
 | 🏅 NPTEL | Python for Data Science – Elite Grade, 72%, IIT Madras |
 | 🎨 Workshop | UI/UX Workshop – NIT Tiruchirappalli |
 | ⚡ Webinar | Embedded Systems Webinar |
-| 🤖 Internship | Robotics & Automation Internship Experience |
-| 🏆 Patent | PharmaSense – German patent granted (as reported) |
+| 🤖 Internship | Robotics and Automation Internship Experience |
+| 🏆 Patent | PharmaSense – German patent granted, as reported |
 | 📜 Patent | Portable Cloth Washing Table – Published |
 | 🚁 Patent | AutoDock – Published |
 
@@ -299,19 +306,19 @@ An automatic drone docking and charging system designed to support precise landi
 <div align="center">
 
 <a href="https://github.com/Borjiyaaalsan">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/borjiya-aalsan-t">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/thomasaalsan2123">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&amp;logo=hackerrank&amp;logoColor=white" alt="HackerRank"/>
 </a>
 
 <a href="mailto:thomasaalsan2123@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"/>
 </a>
 
 </div>
@@ -326,6 +333,6 @@ An automatic drone docking and charging system designed to support precise landi
 
 ⭐ If you find my projects interesting, feel free to explore and connect.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:4B0082,100:09001A&height=120&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00D9FF,50:4B0082,100:09001A&amp;height=120&amp;section=footer" width="100%" alt="Profile Footer"/>
 
 </div>
