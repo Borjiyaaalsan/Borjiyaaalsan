@@ -161,14 +161,14 @@ A prototype concept combining line-guided vehicle movement, embedded control and
 
 ### 🚁 AutoDock – Automatic Drone Docking System
 
-An automatic drone docking and charging concept using positioning, visual markers and magnetic charging contacts.
+An automatic drone docking and charging system designed to support precise landing, docking verification and automated battery charging.
 
 **Technologies**
 - GPS / GNSS
 - LiDAR
 - ArUco / AprilTag
 - Hall Sensor
-- Embedded Systems
+- Magnetic Charging Contacts
 
 </td>
 <td width="50%" valign="top">
@@ -218,66 +218,45 @@ An innovative portable device designed to detect pharmaceutical degradation thro
 
 **Technologies:** ATtiny85 | TCS34725 | OLED | Embedded Systems | Colorimetric Sensing
 
-> 🏆 A patent achievement focused on portable pharmaceutical quality assessment using embedded technology.
-
-<sub>Patent status and jurisdiction are based on the information provided. Add the official German grant number and certificate link for verification.</sub>
-
 ---
 
 ### 2. Portable Cloth Washing Table with Wall Mount
 
-<img src="https://img.shields.io/badge/STATUS-PUBLISHED%20PATENT%20APPLICATION-2563EB?style=for-the-badge" alt="Published Patent Application"/>
+<div align="center">
 
-An innovative portable washing-table concept designed with a wall-mounted arrangement for convenient space utilization.
+<img src="https://img.shields.io/badge/STATUS-PUBLISHED%20PATENT-2563EB?style=for-the-badge" alt="Published Patent"/>
+
+</div>
+
+An innovative portable washing-table design with a wall-mounted arrangement for convenient space utilization.
 
 **Focus Areas:** Product Design | Mechanical Innovation | Space-Saving Utility
 
 ---
 
-### 3. AutoDock – Automatic Drone Docking & Charging System
-
-<img src="https://img.shields.io/badge/STATUS-PATENT%20SPECIFICATION%20PREPARED-64748B?style=for-the-badge" alt="Patent Specification Prepared"/>
-
-An automatic drone docking and charging concept using positioning, visual markers and magnetic charging contacts.
-
-**Key Technologies**
-- GPS / GNSS
-- LiDAR
-- ArUco / AprilTag
-- Hall Sensor
-- Magnetic Charging Contacts
-
-<sub>Patent specification prepared; publication or grant status not verified.</sub>
-
----
-
-## 📊 GitHub Analytics
+### 🚁 3. AutoDock – Automatic Drone Docking & Charging System
 
 <div align="center">
 
-<a href="https://github.com/Borjiyaaalsan">
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FBorjiyaaalsan&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&color=7C3AED&style=for-the-badge&logo=github" alt="Public Repositories"/>
-</a>
-
-<a href="https://github.com/Borjiyaaalsan?tab=followers">
-<img src="https://img.shields.io/github/followers/Borjiyaaalsan?label=FOLLOWERS&color=0891B2&style=for-the-badge&logo=github" alt="Followers"/>
-</a>
+<img src="https://img.shields.io/badge/STATUS-PUBLISHED%20PATENT-2563EB?style=for-the-badge" alt="Published Patent"/>
 
 </div>
 
-<br/>
+An automatic drone docking and charging system designed to support precise landing, docking verification and automated battery charging.
 
-<div align="center">
+**Key Features**
+- GPS / GNSS-based positioning.
+- LiDAR-assisted landing support.
+- ArUco / AprilTag visual marker recognition.
+- Hall sensor-based docking verification.
+- Magnetic charging contacts.
+- Automated drone docking and charging.
 
-<img src="https://github-readme-stats.vercel.app/api?username=Borjiyaaalsan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" height="180" alt="GitHub Statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Borjiyaaalsan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
-
-</div>
+**Technologies:** GPS / GNSS | LiDAR | ArUco / AprilTag | Hall Sensor | Embedded Systems
 
 ---
 
-## ⭐ Repository Stars & Forks
+## ⭐ Repository Stars & Activity
 
 <div align="center">
 
@@ -301,26 +280,6 @@ An automatic drone docking and charging concept using positioning, visual marker
 
 ---
 
-## 📈 Contribution Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Borjiyaaalsan&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Borjiyaaalsan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="GitHub Trophies"/>
-
-</div>
-
----
-
 ## 🎓 Certifications & Achievements
 
 | Achievement | Details |
@@ -330,6 +289,8 @@ An automatic drone docking and charging concept using positioning, visual marker
 | ⚡ Webinar | Embedded Systems Webinar |
 | 🤖 Internship | Robotics & Automation Internship Experience |
 | 🏆 Patent | PharmaSense – German patent granted (as reported) |
+| 📜 Patent | Portable Cloth Washing Table – Published |
+| 🚁 Patent | AutoDock – Published |
 
 ---
 
